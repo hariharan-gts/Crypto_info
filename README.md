@@ -1,6 +1,6 @@
 # Crypto_info
 
-> This is a [React.js](https://reactjs.org/).Which shows crypto currency informations from [Coingecko Api](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=300&page=1&sparkline=flase#) and [Bootstrap](https://getbootstrap.com/) for styling.
+> This is a [React.js](https://reactjs.org/) project.Which shows crypto currency informations from [Coingecko Api](https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=300&page=1&sparkline=flase#) and [Bootstrap](https://getbootstrap.com/) for styling.
 
 ### Visit : https://elegant-rosalind-397041.netlify.app/
 
